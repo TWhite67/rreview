@@ -274,16 +274,37 @@ nav h1 a {
   color: #666;
 }
 
+/*
 @media screen and (max-width: 600px) {
-  header {
-    width: 72%;
-  }
   nav {
-    width: 100%;
+    text-align: left;
   }
-  h1 {
-    width: 100%;
-    font-size: 6px;
+  nav h1 {
+    margin-left: 10px;
+    width: 50%;
   }
-
+  nav h1 a {
+    font-size: 8pt;
+    letter-spacing: 4px;
+  }
 }
+*/
+
+/*
+body {
+  grid-layout: "header header"
+               "map    map   "
+               "footer footer";
+}
+
+header {
+  grid-identifier: header;
+}
+
+#map-container {
+  grid-identifier: map;
+}
+*/
+
+
+*/
