@@ -274,7 +274,6 @@ nav h1 a {
   color: #666;
 }
 
-/*
 @media screen and (max-width: 600px) {
   nav {
     text-align: left;
@@ -287,8 +286,9 @@ nav h1 a {
     font-size: 8pt;
     letter-spacing: 4px;
   }
+
 }
-*/
+
 
 /*
 body {

@@ -1,6 +1,6 @@
 let restaurant;
 var map;
-
+const API_KEY = "AIzaSyA_tKbW6A5pQ-eupxI56myUnHLqYCzOjKo";
 /**
  * Initialize Google map, called from HTML.
  */
